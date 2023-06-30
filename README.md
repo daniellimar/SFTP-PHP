@@ -17,4 +17,4 @@
 - Acesse a pasta do projeto
 - Execute: **_composer update_**
 - Cadastre as chaves FTP em **_settings.php_**
-- Inície seu servidor PHP: **_php -S localhost:8000_**
+- Inicie seu servidor PHP: **_php -S localhost:8000_**
