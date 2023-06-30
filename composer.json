@@ -1,0 +1,18 @@
+{
+    "name": "danie/ftp",
+    "autoload": {
+        "psr-4": {
+            "Danie\\Ftp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Daniel Rodrigues de Lima",
+            "email": "daniel.engca@outlook.com"
+        }
+    ],
+    "require": {
+        "symfony/var-dumper": "^6.3",
+        "twbs/bootstrap": "^5.3"
+    }
+}
