@@ -1,13 +1,15 @@
 # Secure File Transfer Protocol
-## _SFTP_
+
 ![N|Solid](https://cdn.educba.com/academy/wp-content/uploads/2019/09/what-is-SFTP-1.png.webp)
 #
 #
+## _SFTP_
 ### É um protocolo de transferência de arquivos que aproveita um conjunto de utilitários que fornecem acesso seguro a um computador remoto para fornecer comunicações seguras. 
 #
 #
 #### É considerado por muitos como o método ideal para transferência segura de arquivos.
-
+#
+#
 ## Comandos
 
 - Clone o repositório
